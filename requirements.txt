@@ -1,0 +1,6 @@
+IPython
+python-dotenv
+openai
+redlines
+inp
+panel
