@@ -10,3 +10,7 @@ pip3 install -r requirements.txt
 ```bash
 OPENAI_API_KEY=sk-xyz
 ```
+
+
+Copyrights: [DeepLearning.ai](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers)
+
